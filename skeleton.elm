@@ -1,6 +1,4 @@
 -- Matthias Moulin
--- R0255811
--- 2CW-MMC
 
 import Color
 import Debug
