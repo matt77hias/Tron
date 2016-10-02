@@ -6,7 +6,7 @@ Course Comparative Programming Languages: Tron
 **Score**: Maximum Score
 
 ## About
-Adaption of the Tron game (*written in Elm*).
+Adaption of the Tron game for 2 players (*written in Elm*).
 <p align="center"><img src="https://github.com/matt77hias/Tron/blob/master/res/Tron.png"></p>
 
 ## Use
@@ -14,6 +14,8 @@ Adaption of the Tron game (*written in Elm*).
 ### How to play?
 1. Go to [Tron](http://matt77hias.github.io/Tron)
 2. Have fun!
+  * player 1 (blue) uses wsad keys 
+  * player 2 (orange) uses arrow keys
 
 ### How to build (in Windows)?
 1. Install Elm Platform **0.13**
@@ -24,3 +26,5 @@ Adaption of the Tron game (*written in Elm*).
 6. Open a browser and go to "http://localhost:8000/"
 7. Select `tron.elm`
 8. Have fun!
+  * player 1 (blue) uses wsad keys 
+  * player 2 (orange) uses arrow keys
