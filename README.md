@@ -6,7 +6,7 @@ Course Comparative Programming Languages: Tron
 **Score**: Maximum Score
 
 ## About
-Adaption of the Tron game (*written in Elm*).
+Adaption of the Tron game for 2 players (*written in Elm*).
 <p align="center"><img src="https://github.com/matt77hias/Tron/blob/master/res/Tron.png"></p>
 
 ## Use
