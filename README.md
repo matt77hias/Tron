@@ -23,7 +23,7 @@ Adaption of the Tron game for 2 players (*written in Elm*).
 3. Ensure user variable `ELM_HOME` is set to `C:\Program Files (x86)\Elm Platform\0.13\share`
 4. Open a command window in the directory containing `tron.elm` (`shift` + `right mouse button`)
 5. Execute `"C:\Program Files (x86)\Elm Platform\0.13\bin\elm-reactor.exe"`
-6. Open a browser and go to "http://localhost:8000/"
+6. Open a browser and go to `"http://localhost:8000/"`
 7. Select `tron.elm`
 8. Have fun!
   * player 1 (blue) uses wsad keys 
