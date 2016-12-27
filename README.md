@@ -26,5 +26,5 @@ Adaption of the Tron game for 2 players (*written in Elm*).
 6. Open a browser and go to `"http://localhost:8000/"`
 7. Select `tron.elm`
 8. Have fun!
-  * player 1 (blue) uses wsad keys 
-  * player 2 (orange) uses arrow keys
+  * player 1 (blue) uses `wsad` keys 
+  * player 2 (orange) uses `arrow` keys
