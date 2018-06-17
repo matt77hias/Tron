@@ -1,3 +1,8 @@
+[![License][s1]][li]
+
+[s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
+[li]: https://raw.githubusercontent.com/matt77hias/Tron/master/LICENSE.txt
+
 # [Tron](http://matt77hias.github.io/Tron)
 Course Comparative Programming Languages: [Tron](http://matt77hias.github.io/Tron)
 
