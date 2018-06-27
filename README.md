@@ -1,5 +1,10 @@
-# [Tron](http://matt77hias.github.io/Tron)
-Course Comparative Programming Languages: [Tron](http://matt77hias.github.io/Tron)
+[![License][s1]][li]
+
+[s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
+[li]: https://raw.githubusercontent.com/matt77hias/Tron/master/LICENSE.txt
+
+# [Tron](https://matt77hias.github.io/Tron)
+Course Comparative Programming Languages: [Tron](https://matt77hias.github.io/Tron)
 
 **Academic Year**: 2014-2015 (1st semester - 2nd Master of Science in Engineering: Computer Science)
 
@@ -12,7 +17,7 @@ Adaption of the Tron game for 2 players (*written in Elm*).
 ## Use
 
 ### How to play?
-1. Go to [Tron](http://matt77hias.github.io/Tron)
+1. Go to [Tron](https://matt77hias.github.io/Tron)
 2. Have fun!
   * player 1 (blue) uses `wsad` keys 
   * player 2 (orange) uses `arrow` keys
