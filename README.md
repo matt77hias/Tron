@@ -11,7 +11,7 @@ Course Comparative Programming Languages: [Tron](https://matt77hias.github.io/Tr
 **Score**: Maximum Score
 
 ## About
-Adaption of the Tron game for 2 players (*written in Elm*).
+Adaption of the Tron game for 2 players using functional reactive programming (*written in Elm*).
 <p align="center"><img src="res/Tron.png"></p>
 
 ## Use
